@@ -1,0 +1,37 @@
+body{
+    margin: 0;
+    padding: 0;  
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMzHAswkP3V848Ajiae4THFsCexJV_xSvhgw&usqp=CAU");
+    background-size: auto;
+    background-origin: content-box;
+    background-repeat: repeat;
+}
+#main{
+    width: 50%;
+    margin:0 auto;
+    border: 3px solid black;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    
+}
+/* CSS FORMCONTENT */
+.formcontent .row{
+    margin: 5px 0 5px 0;
+}
+h3{
+    text-align: center;
+}
+.btn{
+    border:2px solid rgb(102, 99, 94);
+}
+.btn:hover{
+    background-color: brown;
+}
+/* CSS-DSSinhVien */
+#DSSinhVien{
+    
+    width: 80%;
+    margin:0 auto;
+    border: 3px solid black;
+    border-radius: 10px;
+}
